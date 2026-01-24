@@ -1,3 +1,18 @@
-bash update_packages.sh
-cd east/dists/east
-apt-ftparchive release . > Release
+Package: com.east.testplugin
+Name: TestPlugin
+Version: 1.0.0
+Architecture: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Description: A test tweak from east repo
+ This is a sample tweak for iOS jailbreak devices,
+ just for repo test usage.
+Maintainer: east <your@email.com>
+Author: east
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<= 17.5)
+Filename: ./debs/com.east.testplugin_1.0.0.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Homepage: https://github.com/east
+Depiction: https://east.github.io/testplugin/depiction.json
