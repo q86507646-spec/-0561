@@ -3,7 +3,7 @@
 GITHUB_USERNAME="q86507646-spec"   # 你的GitHub用户名
 REPO_NAME="-0561"                  # 你的GitHub仓库名称
 BRANCH="main"                      # 推送的分支
-REPO_PATH="$HOME/my-jailbreak-repo"# 你的本地越狱源仓库路径（必须修改！）
+REPO_PATH="$HOMEhttps://raw.githubusercontent.com/q86507646-spec/-0561/main/push-to-github-pages.sh# 你的本地越狱源仓库路径（必须修改！）
 # ==============================================================
 
 # 颜色输出函数（纯文字，避免终端显示异常）
