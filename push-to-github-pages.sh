@@ -3,7 +3,7 @@
 GITHUB_USERNAME="q86507646-spec"
 REPO_NAME="-0561"
 BRANCH="main"
-REPO_PATH="$HOME/my-jailbreak-repo"  # 替换为你的本地仓库路径
+REPO_PATH="$HOME/my-jailbreak-repohttps://github.com/q86507646-spec/-0561"  # 替换为你的本地仓库路径
 # ==================================================
 
 # 颜色输出
