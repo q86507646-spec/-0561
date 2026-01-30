@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==================== 配置参数（必须修改！）====================
-GITHUB_USERNAME="你的GitHub用户名"   # 例如：octocat
-REPO_NAME="你的仓库名称"             # 例如：my-jailbreak-repo
+GITHUB_USERNAME=q86507646-spec  # 例如：octocat
+REPO_NAME=-0561           # 例如：my-jailbreak-repo
 BRANCH="main"                       # 推送的分支（GitHub Pages 推荐用 main 或 gh-pages）
 # ==============================================================
 
